@@ -34,7 +34,7 @@ A modern blogging application built with FastAPI, PostgreSQL, and JWT authentica
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/nipun-code/BloggingApp.git
+   git clone https://github.com/nipun-code/BlogApp.git
    cd BloggingApp
    ```
 
