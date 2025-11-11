@@ -1,0 +1,57 @@
+# Python build and cache file
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+
+# Virtual environments
+venv/
+env/
+.venv/
+.env
+.env.docker
+# Build, distribution, and packaging
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# IDE / Editor
+.vscode/
+.idea/
+
+# Databases (local only)
+testdb.db
+*.sqlite3
+
+# Test, coverage, and type checking
+.coverage
+coverage.xml
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# SonarQube temporary files
+.sonar/
+.sonartmp/
+.sonar_lock
+scanner-report/
+
+# Logs
+*.log
+logs/
+
+# OS generated files
+.DS_Store
+Thumbs.db
